@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter, Backend**
 
-- 💬 Ask me about **App Development, Design, Video Editing**
+- 💬 Ask me about **App Development, Backend, Design, Video Editing**
 
 - 📫 How to reach me **ashishmohapatra240@gmail.com**
 
