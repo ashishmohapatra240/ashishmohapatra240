@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Mohapatra</h1>
-<h3 align="center">A passionate Fullstack Mobile Application Developer from India</h3>
+<h3 align="center">Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmohapatra240&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmohapatra240" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1-qF9YUnra21gqFT0bEXr9bzIl550QQSL](https://drive.google.com/drive/folders/1-qF9YUnra21gqFT0bEXr9bzIl550QQSL)
 
-- ⚡ Fun fact **By passion, I am also a stand-up comic; I've performed at over 50 stand-up mics, including 5+ lineup performances and 2 college shows (SIT MUN, SSU MUN). I've opened for national-level YouTube comics such as Sorabh Pant and Devesh Dixit**
+- ⚡ Fun fact **By passion, I am also a stand-up comic; I've performed at over 50 stand-up mics, including 5+ lineup performances and 2 college shows (Advaita (IIIT Bhubaneswar), SIT MUN, SSU MUN). I've opened for national-level YouTube comics such as Sorabh Pant, Devesh Dixit, Ashish Solanki, Akash Mehta, Kunal Rao**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
