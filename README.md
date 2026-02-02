@@ -10,4 +10,4 @@
 
 
 <!-- <p> 🌱 Fun fact: Performed at over 300+ stand-up open mics and won at a few competitions like Spring Fest IIT KGP, XIMB BBSR (2 Times), AIIMS BBSR. Opened for a few comics like Rohan Joshi, Gurleen Pannu, Ravi Gupta, Aashish Solanki, Sorabh Pant, Devesh Dixit, Akash Mehta, and more.
-</p> --> -->
+</p> -->
