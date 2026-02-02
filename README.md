@@ -1,4 +1,4 @@
-<h1 align="center">Ashish Mohapatra</h1>
+<!-- <h1 align="center">Ashish Mohapatra</h1>
 <h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmohapatra240&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmohapatra240" /> </p>
 <p> ⚡ Working as a Freelance Software Engineer, building scalable product & exploring all things Solana </p>
@@ -10,4 +10,4 @@
 
 
 <!-- <p> 🌱 Fun fact: Performed at over 300+ stand-up open mics and won at a few competitions like Spring Fest IIT KGP, XIMB BBSR (2 Times), AIIMS BBSR. Opened for a few comics like Rohan Joshi, Gurleen Pannu, Ravi Gupta, Aashish Solanki, Sorabh Pant, Devesh Dixit, Akash Mehta, and more.
-</p> -->
+</p> --> -->
